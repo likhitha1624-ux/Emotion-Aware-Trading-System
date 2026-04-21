@@ -69,7 +69,7 @@ Datasets Used
   * Win rate
 * Used pie chart for trading activity
 
-#9. Result Generation
+9. Result Generation
 
 * Generated insights on trader performance
 * Exported final dataset
